@@ -1,0 +1,3 @@
+/home/student/labs4/paoo-tasks/build/CMakeFiles/rebuild_cache.dir
+/home/student/labs4/paoo-tasks/build/CMakeFiles/edit_cache.dir
+/home/student/labs4/paoo-tasks/build/CMakeFiles/helloWorld.dir
